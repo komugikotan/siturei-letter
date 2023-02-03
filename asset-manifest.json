@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/siturei-letter/static/css/main.fb8cf300.css",
+    "main.js": "/siturei-letter/static/js/main.862f9b0c.js",
+    "static/js/787.26842e45.chunk.js": "/siturei-letter/static/js/787.26842e45.chunk.js",
+    "static/media/logo.png": "/siturei-letter/static/media/logo.ff9d8a9be9d6baadcd12.png",
+    "index.html": "/siturei-letter/index.html",
+    "main.fb8cf300.css.map": "/siturei-letter/static/css/main.fb8cf300.css.map",
+    "main.862f9b0c.js.map": "/siturei-letter/static/js/main.862f9b0c.js.map",
+    "787.26842e45.chunk.js.map": "/siturei-letter/static/js/787.26842e45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8cf300.css",
+    "static/js/main.862f9b0c.js"
+  ]
+}
